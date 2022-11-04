@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kirti-mathur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirti mathur" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kirti-mathur-465647215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirti mathur" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
