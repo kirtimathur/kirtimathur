@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kirtimathur67@gmail.com**
 
-- ⚡ Fun fact **I can cook. 👩‍🍳**
+- ⚡ Fun fact **I can get quite creative. 🧠🖼️🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
