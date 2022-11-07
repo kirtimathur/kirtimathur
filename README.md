@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kirtimathur67@gmail.com**
 
-- ⚡ Fun fact **I can get quite creative. 🧠🖼️🤓**
+- ⚡ Fun fact **I am quite creative. 🧠🖼️🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
