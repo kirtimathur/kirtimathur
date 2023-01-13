@@ -21,9 +21,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-stats-alpha.vercel.app/api?username={kirtimathur}&show_icons=true&locale=en&layout=compact" alt="kirtimathur" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirtimathur&show_icons=true&locale=en" alt="kirtimathur" /></p>
+| <a href="https://github.com/kirtimathur/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kirtimathur&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kirti's github stats" /></a> | <a href="https://github.com/kirtimathur/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtimathur&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtimathur&" alt="kirtimathur" /></p>
 
