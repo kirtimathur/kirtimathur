@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtimathur&label=Profile%20views&color=0e75b6&style=flat" alt="kirtimathur" /> </p>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-- 👋 Hello World, I’m Kirti Mathur. I am data science student from India, <img src="https://hatscripts.github.io/circle-flags/flags/in.svg" width="13">
+- 👋 Hello World, I’m Kirti Mathur. I am data science student from India, <img src="https://hatscripts.github.io/circle-flags/flags/in.svg" width="40">
 - 👀 I am interested in Data Analysis & Machine Learning. I am passionate about studying how to improve performance and deriving business insights with mathematics and logical thinking.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -19,6 +19,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtimathur&" alt="kirtimathur" /></p>
 
 <img alt="stat" src="https://github-readme-stats.vercel.app/api?username=kirtimathur />
+                     
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtimathur&hide=jupyter%20notebook&hide_border=true&layout=compact" />
 
 
