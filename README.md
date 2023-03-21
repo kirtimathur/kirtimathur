@@ -4,7 +4,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <div align="left">
-- 👋 Hello World, I’m Kirti Mathur. I am data science student from<img src="https://hatscripts.github.io/circle-flags/flags/in.svg" width="20">India.
+- 👋 Hello World, I’m Kirti Mathur. I am data science student from,<img src="https://hatscripts.github.io/circle-flags/flags/in.svg" width="20">India.
 - 👀 I am interested in Data Analysis & Machine Learning. I am passionate about studying how to improve performance and deriving business insights with mathematics and logical thinking.
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
