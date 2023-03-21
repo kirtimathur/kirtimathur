@@ -5,7 +5,9 @@
 
 <p>
 - 👋 Hello World, I’m Kirti Mathur. I am data science student from India.
+  
 - 👀 I am interested in Data Analysis & Machine Learning. I am passionate about studying how to improve performance and deriving business insights with mathematics and logical thinking.
+  
 </p>
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
