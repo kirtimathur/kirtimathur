@@ -18,9 +18,9 @@
 <h3> 📊 Github Stats and Stuff</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtimathur&" alt="kirtimathur" /></p>
 
-<img alt="stat" src="https://github-readme-stats.vercel.app/api?username=kirtimathur />
+<p align="left"><img alt="stat" src="https://github-readme-stats.vercel.app/api?username=kirtimathur /> </p>
                      
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtimathur&hide=jupyter%20notebook&hide_border=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtimathur&hide_border=true&layout=compact" />
 
 
 
