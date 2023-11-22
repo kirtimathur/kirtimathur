@@ -23,9 +23,9 @@
 
 <h3> 📊 Github Stats and Stuff</h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtimathur&" alt="kirtimathur" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kirtimathur&" alt="kirtimathur" /> </p>
+<!--<img align="left" src="https://github-readme-stats.vercel.app/api?username=kirtimathur&" alt="kirtimathur" /> </p>-->
                      
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtimathur&hide_border=true&layout=compact" />-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtimathur&hide_border=true&layout=compact" />
 
 
 
